@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nifferis-777
+- 👋 Hi, I’m Alexander Kuznetsov
 - 👀 I’m interested in ineverything related to software testing, software testing automation
 - 🌱 Now I'm learning software testing automation in Java
 - 💞️ I’m looking for cooperation with beginning software automation engineers in Java
