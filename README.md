@@ -2,7 +2,9 @@
 - 👀 I’m interested in ineverything related to software testing, software testing automation
 - 🌱 Now I'm learning software testing automation in Java
 - 💞️ I’m looking for cooperation with beginning software automation engineers in Java
-- 📫 How to reach me: TG - @KRAtos025, eMail- kuznecovjobs@yandex.ru
+- 📫 How to reach me:
+      - TG - @KRAtos025,
+      - EMail- kuznecovjobs@yandex.ru
 
 <!---
 Nifferis-777/Nifferis-777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
