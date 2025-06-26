@@ -43,3 +43,6 @@
 <img width="12" />
 <img src="https://raw.githubusercontent.com/rest-assured/rest-assured/master/rest-assured-logo-green.png" height="40" alt="rest assured logo" />
 <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo" />
+<span style="font-size: 24px; margin-left: 10px;">JDBC</span>
+<img width="12" />
