@@ -46,3 +46,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo" />
 <span style="font-size: 24px; margin-left: 10px;">JDBC</span>
 <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original-wordmark.svg" height="40" alt="hibernate logo" />
+<img width="12" />
