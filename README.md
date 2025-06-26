@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠 Инструменты:</h3>
 
 ###
 
@@ -40,4 +40,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" alt="maven logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original-wordmark.svg" height="40" alt="gradle logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/rest-assured/rest-assured/master/rest-assured-logo-green.png" height="40" alt="rest assured logo" />
 <img width="12" />
