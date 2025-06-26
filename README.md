@@ -63,10 +63,12 @@
 
 ###
 
-<h3 align="left">🛠 Операционные системы:</h3>
+<h3 align="left">🔭 Операционные системы:</h3>
 
 ###
 
 <div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows logo" />
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
 <img width="12" />
