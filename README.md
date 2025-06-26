@@ -1,4 +1,4 @@
-                                                                                                                                                                                                                                                                               <p style="text-align: right; font-style: italic;">"Try, make mistakes, learn, and try again."</p>
+<p style="text-align:right; font-style: italic;">"Try, make mistakes, learn, and try again."</p>
 
 <br clear="both">
 
