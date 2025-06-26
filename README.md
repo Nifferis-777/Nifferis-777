@@ -60,3 +60,13 @@
 <img width="12" />
 <img src="https://img.shields.io/badge/Allure_Report-FF4A4A?style=for-the-badge&logo=allure&logoColor=white" height="20" alt="allure logo" />
 <img width="12" />
+
+###
+
+<h3 align="left">🛠 Операционные системы:</h3>
+
+###
+
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+<img width="12" />
