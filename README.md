@@ -41,6 +41,10 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original-wordmark.svg" height="40" alt="gradle logo" />
 <img width="12" />
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="20" alt="junit logo" />
+<img width="12" />
+<img src="https://img.shields.io/badge/TestNG-DD0031?style=for-the-badge&logo=testng&logoColor=white" height="20" alt="testng logo" />
+<img width="12" />
 <img src="https://raw.githubusercontent.com/rest-assured/rest-assured/master/rest-assured-logo-green.png" height=15" alt="rest assured logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo" />
