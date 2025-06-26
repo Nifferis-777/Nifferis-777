@@ -61,7 +61,7 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo" />
 <img width="12" />
-<img src="https://selenide.org/images/selenide-logo-big.png" height="40" alt="selenide logo" />
+<img src="https://selenide.org/images/selenide-logo-big.png" height="20" alt="selenide logo" />
 <img width="12" />
 <img src="https://img.shields.io/badge/Allure_Report-FF4A4A?style=for-the-badge&logo=allure&logoColor=white" height="20" alt="allure logo" />
 <img width="12" />
