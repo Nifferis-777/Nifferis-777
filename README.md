@@ -1,12 +1,12 @@
-- 👋 Hi, I’m Alexander Kuznetsov
-- 👀 I’m interested in ineverything related to software testing, software testing automation
-- 🌱 Now I'm learning software testing automation in Java
-- 💞️ I’m looking for cooperation with beginning software automation engineers in Java
-- 📫 How to reach me:
-      - TG - @KRAtos025,
-      - EMail- kuznecovjobs@yandex.ru
+<br clear="both">
 
-<!---
-Nifferis-777/Nifferis-777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
+
+###
+
+<h1 align="center">Привет👋 Меня зовут Александр!</h1>
+
+###
+
