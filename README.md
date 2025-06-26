@@ -54,9 +54,7 @@
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
 <img width="12" />
-<img src="https://img.shields.io/badge/TestNG-DD0031?style=for-the-badge&logo=testng&logoColor=white" height="40" alt="testng logo" />
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="20" alt="junit logo" />
 <img width="12" />
-<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="40" alt="junit logo" />
-<img width="12" />
-<img src="https://img.shields.io/badge/Allure_Report-FF4A4A?style=for-the-badge&logo=allure&logoColor=white" height="40" alt="allure logo" />
+<img src="https://img.shields.io/badge/Allure_Report-FF4A4A?style=for-the-badge&logo=allure&logoColor=white" height="20" alt="allure logo" />
 <img width="12" />
