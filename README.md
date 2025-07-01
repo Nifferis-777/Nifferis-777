@@ -60,12 +60,7 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"> |
 
 ### :email:	Connect with me:
-<div align="left"> <a href="mailto:kuznecovjobs@yandex.ru" target="_blank"> <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"/> </a> </div>
-<div align="left">
-  <a href="https://t.me/KRAtos025" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"/>
-  </a>
- 
-</div>
-  </div>
++ [Telegram](https://t.me/KRAtos025)
++ Email: kuznecovjobs@yandex.ru
+
 
