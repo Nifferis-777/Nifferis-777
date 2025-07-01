@@ -36,34 +36,14 @@
 
 ###
 
-<h3 align="left">My tech stack:</h3>
+<h3 align="left">:wrench: My tech stack:</h3>
 
 ###
 
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" alt="maven logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original-wordmark.svg" height="40" alt="gradle logo" />
-<img width="12" />
-<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="20" alt="junit logo" />
-<img width="12" />
-<img src="https://img.shields.io/badge/TestNG-DD0031?style=for-the-badge&logo=testng&logoColor=white" height="20" alt="testng logo" />
-<img width="12" />
-<img src="https://raw.githubusercontent.com/rest-assured/rest-assured/master/rest-assured-logo-green.png" height=15" alt="rest assured logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo" />
-<span style="font-size: 24px; margin-left: 10px;">JDBC</span>
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original-wordmark.svg" height="40" alt="hibernate logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo" />
-<img width="12" />
-<img src="https://selenide.org/images/selenide-logo-big.png" height="20" alt="selenide logo" />
-<img width="12" />
-<img src="https://img.shields.io/badge/Allure_Report-FF4A4A?style=for-the-badge&logo=allure&logoColor=white" height="20" alt="allure logo" />
-<img width="12" />
+| IntelliJ IDEA | Java | Gradle/Maven | Junit5 | Selenium | Selenide | Selenoid |
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+| <img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/383/h/ccb79347a3ba4f05bfb3129dfd913fcf.svg" width="50" height="50"> | <img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/56/h/07d564cc70e29ca3f184523294545f8b.svg" width="50" height="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" height="40" /> <img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/147/h/4e2b5444985e5c3a7f7b1df2b71046f1.svg" width="40" height="40" /> | <img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/390/h/b90dddb8bcf49db3d4ea4647f02cb479.svg" width="40" height="40"> | <img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/178/h/765d78cae8cf8967a7124cb8636c72f8.svg" width="40" height="40"> | <img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/399/h/5d2c34e97efd8aff6f7f2c1d3c8c30b8.svg" width="45" height="45"> | <img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/131/h/40ba0a9a145340d913192bff0f6c6b77.svg" width="45" height="45"> |
+
 
 ###
 
