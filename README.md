@@ -3,7 +3,7 @@
 </div>
 
 <h2 align="center">:wave: Hi everyone! Welcome to my GitHub</h2>
-<h3 align="center">I'm Alexander, QA Automation Engineer from Arkhangelsk(RU) :sun_behind_rain_cloud:</h3>
+<h3 align="center">I'm Alexander, QA Automation Engineer from Arkhangelsk (RU) :sun_behind_rain_cloud:</h3>
 <h3 align="center"></h3>
 
 
