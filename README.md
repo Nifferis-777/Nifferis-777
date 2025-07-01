@@ -1,13 +1,11 @@
-<br clear="both">
 <div align="center">
   <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
-###
+<h2 align="center">:wave: Hi everyone! Welcome to my GitHub</h2>
+<h3 align="center">I'm Alexander, QA Automation Engineer from Arkhangelsk(RU) :sun_behind_rain_cloud:</h3>
+<h3 align="center"></h3>
 
-<h1 align="center">Привет👋 Меня зовут Александр!</h1>
-
-###
 
 ###
 <div align="center">
@@ -18,11 +16,13 @@
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне:</h3>
+<h3 align="left">👩‍💻  About me:</h3>
 
 ###
 
-<p align="left">Я Fullstack QA-Engineer на Java. Моя IT-карьера началась с курса по основам тестирования ПО в Университете Иннополис. Пробовал себя в разных ролях - был системным администратором, экспериментировал с Frontend-разработкой, но именно тестирование ПО покорило мое сердце своей глубиной и разнообразием задач. С октября 2024 по май 2025 года я углубленно изучал автоматизацию тестирования на курсе в Иннополисе, и теперь, успешно завершив обучение, имею дипломом о профессиональной переподготовке.<br><br>- ⚡Являюсь действующим QA-Engineer<br>- 🌀Специализируюсь на тестировании Web и Desktop-приложений, включая как фронтенд, так и бэкенд <br>- 📚 Завершил курсы по основам тестирования и автоматизации ПО</p>
+<p align="left">My IT career began with a Software Testing Fundamentals course at Innopolis University. I’ve explored different roles—working as a System Administrator and experimenting with Frontend Development—but QA Engineering won me over with its depth and variety of challenges. From October 2024 to May 2025, I advanced my skills in Test Automation through a professional training program at Innopolis and earned a Specialist Diploma in the field.<br><br>- ⚡ Currently working as a QA Engineer at ITALabs<br>- 🌀 Specializing in Web & Desktop Application Testing (both frontend & backend)<br>- 📚 Completed courses in Software Testing Fundamentals & Test Automation</p>
+
+
 
 ###
 
