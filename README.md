@@ -63,4 +63,10 @@
 + [Telegram](https://t.me/KRAtos025)
 + Email: kuznecovjobs@yandex.ru
 
+<h3 align="left"> :chart: My stats: </h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nifferis-777&theme=great-gatsby&show_icons=true&locale=en&layout=normal" alt="Nifferis-777" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nifferis-777&theme=great-gatsby&show_icons=true&locale=en" alt="Nifferis-777" />
+</div>
 
