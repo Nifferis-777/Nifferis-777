@@ -19,12 +19,9 @@
 <p align="left">My IT career began with a Software Testing Fundamentals course at Innopolis University. I’ve explored different roles — working as a System Administrator and experimenting with Frontend Development — but QA Engineering won me over with its depth and variety of challenges. From October 2024 to May 2025, I advanced my skills in Test Automation through a professional training program at Innopolis and earned a Specialist Diploma in the field.<br><br>- ⚡ Currently working as a QA Engineer at ITALabs<br>- 🌀 Specializing in Web & Desktop Application Testing (both frontend & backend)<br>- 📚 Completed courses in Software Testing Fundamentals & Test Automation</p>
 
 <h3 align="left">:clipboard: What I do: </h3>
-
-:computer: Manual software testing
-
-:globe_with_meridians: UI & API Automation in JAVA
-
-:rocket: Developing a test framework and preparing modules
+- :computer: Manual software testing
+<br>- :globe_with_meridians: UI & API Automation in JAVA
+<br>- :rocket: Developing a test framework and preparing modules
  
 ###
 
