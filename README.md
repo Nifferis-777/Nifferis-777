@@ -8,11 +8,7 @@
 
 
 ###
-<div align="center">
-  <a href="https://t.me/KRAtos025" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"/>
-  </a>
-  </div>
+
 
 ###
 
@@ -20,10 +16,16 @@
 
 ###
 
-<p align="left">My IT career began with a Software Testing Fundamentals course at Innopolis University. I’ve explored different roles—working as a System Administrator and experimenting with Frontend Development—but QA Engineering won me over with its depth and variety of challenges. From October 2024 to May 2025, I advanced my skills in Test Automation through a professional training program at Innopolis and earned a Specialist Diploma in the field.<br><br>- ⚡ Currently working as a QA Engineer at ITALabs<br>- 🌀 Specializing in Web & Desktop Application Testing (both frontend & backend)<br>- 📚 Completed courses in Software Testing Fundamentals & Test Automation</p>
+<p align="left">My IT career began with a Software Testing Fundamentals course at Innopolis University. I’ve explored different roles — working as a System Administrator and experimenting with Frontend Development — but QA Engineering won me over with its depth and variety of challenges. From October 2024 to May 2025, I advanced my skills in Test Automation through a professional training program at Innopolis and earned a Specialist Diploma in the field.<br><br>- ⚡ Currently working as a QA Engineer at ITALabs<br>- 🌀 Specializing in Web & Desktop Application Testing (both frontend & backend)<br>- 📚 Completed courses in Software Testing Fundamentals & Test Automation</p>
 
+<h3 align="left">:clipboard: What I do: </h3>
 
+:computer: Manual software testing
 
+:globe_with_meridians: UI & API Automation in JAVA
+
+:rocket: Developing a test framework and preparing modules
+ 
 ###
 
 <p align="center">
@@ -34,7 +36,7 @@
 
 ###
 
-<h3 align="left">🛠 Инструменты:</h3>
+<h3 align="left">My tech stack:</h3>
 
 ###
 
@@ -65,7 +67,7 @@
 
 ###
 
-<h3 align="left">🔭 Операционные системы:</h3>
+<h3 align="left">:cd: Operating Systems:</h3>
 
 ###
 
@@ -74,3 +76,11 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
 <img width="12" />
+
+### :email:	Connect with me:
+<div align="left">
+  <a href="https://t.me/KRAtos025" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"/>
+  </a>
+  </div>
+
