@@ -41,9 +41,9 @@
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 | <img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/383/h/ccb79347a3ba4f05bfb3129dfd913fcf.svg" width="50" height="50"> | <img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/56/h/07d564cc70e29ca3f184523294545f8b.svg" width="50" height="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" height="40" /> <img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/147/h/4e2b5444985e5c3a7f7b1df2b71046f1.svg" width="40" height="40" /> | <img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/390/h/b90dddb8bcf49db3d4ea4647f02cb479.svg" width="40" height="40"> | <img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/178/h/765d78cae8cf8967a7124cb8636c72f8.svg" width="40" height="40"> | <img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/399/h/5d2c34e97efd8aff6f7f2c1d3c8c30b8.svg" width="45" height="45"> | <img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/131/h/40ba0a9a145340d913192bff0f6c6b77.svg" width="45" height="45"> |
 
-| REST assured | JDBC | Hibernate | 
-|:----:|:----:|:----:|
-| <img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/428/h/c14aaadcc88c5e412b14dcfb7785dde5.svg" width="40" height="40"> |  <img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/164/h/7d90ad874f0bef32137070f887b7e7c9.svg" width="50" height="50"> | <img src="https://hibernate.org/images/hibernate-logo.svg" width="85" height="85"> | <img 
+| REST assured | Retrofit |JDBC | Hibernate | 
+|:----:|:----:|:----:|:----:|
+| <img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/428/h/c14aaadcc88c5e412b14dcfb7785dde5.svg" width="40" height="40"> | <img src="https://codingwithmitch.s3.amazonaws.com/static/blog/f099482c-28a2-11e9-b183-2aabe8ede8eb/retrofit2_getting_started.png" width="95" height="60"> |  <img src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/164/h/7d90ad874f0bef32137070f887b7e7c9.svg" width="50" height="50"> | <img src="https://hibernate.org/images/hibernate-logo.svg" width="85" height="85"> | <img 
 
 | GitHub | Jenkins | GitLab CI/CD | Docker | Allure Report | Allure TestOps | 
 |:----:|:----:|:----:|:----:|:----:|:----:|
