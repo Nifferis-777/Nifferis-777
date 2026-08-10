@@ -20,7 +20,7 @@
 
 <h3 align="left">:clipboard: What I do: </h3>
 - :computer: Manual software testing
-<br>- :globe_with_meridians: UI & API Automation in JAVA
+<br>- :globe_with_meridians: UI & API Automation in JAVA & Python
 <br>- :rocket: Developing a test framework and preparing modules
  
 ###
